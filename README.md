@@ -24,6 +24,10 @@
 - **addTodoHandle**: ฟังก์ชันที่ใช้แสดง Dialog สำหรับการกรอกข้อมูลรายการใหม่
 - **ListView.builder**: ใช้ในการแสดงรายการทั้งหมดที่บันทึก โดยสร้างการ์ดแต่ละใบพร้อมหัวข้อและรายละเอียด
 
+
+
+
+
 ## Flowchart ของโปรแกรม
 
 ```plaintext
@@ -51,6 +55,12 @@
 สิ้นสุดโปรแกรม
 
 ```
+
+## UI
+
+![image](https://github.com/user-attachments/assets/5e0645c3-00e7-44b4-ac82-7b0a013e1775)
+![image](https://github.com/user-attachments/assets/62299e44-7ff7-4fb4-b00b-83251794b447)
+![image](https://github.com/user-attachments/assets/a3167101-1912-4751-ba0b-a9c5c0891f06)
 
 ## การต่อยอดโปรแกรม
 
